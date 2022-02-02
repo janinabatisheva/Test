@@ -1,3 +1,4 @@
 Hello, world!
 Hello all!
 Hello, Git!
+Hello, git rebase!
