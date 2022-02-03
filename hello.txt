@@ -3,3 +3,5 @@ Hello all!
 Hello, Git!
 Hello, git rebase!
 Hello, git cherry pick!
+Hello, squash!
+
